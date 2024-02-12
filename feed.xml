@@ -3,10 +3,37 @@
     <title>Der Itler</title>
     <link href="https://der-itler.github.io/feed.xml" rel="self" />
     <link href="https://der-itler.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-02-13T00:16:23+01:00</updated>
     <author>
         <name>Paul</name>
     </author>
     <id>https://der-itler.github.io</id>
 
+    <entry>
+        <title>Wer bin ich?</title>
+        <author>
+            <name>Paul</name>
+        </author>
+        <link href="https://der-itler.github.io/wer-bin-ich.html"/>
+        <id>https://der-itler.github.io/wer-bin-ich.html</id>
+
+        <updated>2024-02-13T00:16:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Wenn man durch die Welt der PCs und Smartphones geht, wird einem schnell klar, dass jedes System irgendwo seine Grenzen hat. Was auch unsere Benutzung oftmals einschränkt oder nicht gerade verbessert. Ich selbst bin jemand, der oft auf solche Probleme gestoßen ist, da ich sowohl&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Wenn man durch die Welt der PCs und Smartphones geht, wird einem schnell klar, dass jedes System irgendwo seine Grenzen hat. Was auch unsere Benutzung oftmals einschränkt oder nicht gerade verbessert. Ich selbst bin jemand, der oft auf solche Probleme gestoßen ist, da ich sowohl mit einem Android-Handy, einem Apple iPad, einem Windows-Laptop und einem Linux-PC arbeiten muss. Dabei habe ich nach Lösungen und Workarrounds gesucht, die mir Helfen mit den unterschiedlichen Betriebssystemen fließend zusammen arbeiten zu können.&nbsp;
+  </p>
+
+  <p>
+    Zudem läuft bei mir daheim ein kleines Homelab, woran ich gerne in meiner Freizeit tüftle, um die Zusammenarbeit der unterschiedlichen Systeme zu stärken.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

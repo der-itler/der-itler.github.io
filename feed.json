@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Der Itler",
+    "description": "",
+    "home_page_url": "https://der-itler.github.io",
+    "feed_url": "https://der-itler.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Paul"
+    },
+    "items": [
+    ]
+}

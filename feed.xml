@@ -3,7 +3,7 @@
     <title>Der Itler</title>
     <link href="https://der-itler.github.io/feed.xml" rel="self" />
     <link href="https://der-itler.github.io" />
-    <updated>2024-02-13T00:16:23+01:00</updated>
+    <updated>2024-02-13T00:25:32+01:00</updated>
     <author>
         <name>Paul</name>
     </author>
@@ -16,18 +16,21 @@
         </author>
         <link href="https://der-itler.github.io/wer-bin-ich.html"/>
         <id>https://der-itler.github.io/wer-bin-ich.html</id>
+        <media:content url="https://der-itler.github.io/media/posts/1/wer-bin-ich.jpg" medium="image" />
 
-        <updated>2024-02-13T00:16:23+01:00</updated>
+        <updated>2024-02-13T00:25:32+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://der-itler.github.io/media/posts/1/wer-bin-ich.jpg" alt="" />
                     Wenn man durch die Welt der PCs und Smartphones geht, wird einem schnell klar, dass jedes System irgendwo seine Grenzen hat. Was auch unsere Benutzung oftmals einschränkt oder nicht gerade verbessert. Ich selbst bin jemand, der oft auf solche Probleme gestoßen ist, da ich sowohl&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://der-itler.github.io/media/posts/1/wer-bin-ich.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    Wenn man durch die Welt der PCs und Smartphones geht, wird einem schnell klar, dass jedes System irgendwo seine Grenzen hat. Was auch unsere Benutzung oftmals einschränkt oder nicht gerade verbessert. Ich selbst bin jemand, der oft auf solche Probleme gestoßen ist, da ich sowohl mit einem Android-Handy, einem Apple iPad, einem Windows-Laptop und einem Linux-PC arbeiten muss. Dabei habe ich nach Lösungen und Workarrounds gesucht, die mir Helfen mit den unterschiedlichen Betriebssystemen fließend zusammen arbeiten zu können.&nbsp;
+    Wenn man durch die Welt der PCs und Smartphones geht, wird einem schnell klar, dass jedes System irgendwo seine Grenzen hat. Was auch unsere Benutzung oftmals einschränkt oder nicht gerade verbessert. Ich selbst bin jemand, der oft auf solche Probleme gestoßen ist, da ich sowohl mit einem Android-Handy, einem Apple iPad, einem Windows-Laptop und einem Linux-PC arbeite. Dabei habe ich nach Lösungen und Workarrounds gesucht, die mir Helfen mit den unterschiedlichen Betriebssystemen fließend zusammen arbeiten zu können.&nbsp;
   </p>
 
   <p>
